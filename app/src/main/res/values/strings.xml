@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="title_activity_mascotas_favoritas">MascotasFavoritas</string>
+    <string name="NombreMascota">Link</string>
+    <string name="About">Un poco sobre mi: Mi nombre es Miguel y soy un egresado de la carrera de ingeniería en Computación,
+    amante de los animales y de la programación, actualemte trabajando en telecomunicaciones y comenzando a dentrarme en la programacion en Android.</string>
+
+</resources>
